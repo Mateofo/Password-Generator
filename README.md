@@ -21,6 +21,9 @@ Technologies Used
 
 
 Link to github Repo
+https://github.com/Mateofo/Password-Generator.git
+
+Live URL
 https://github.com/Mateofo/Password-Generator
 
 
